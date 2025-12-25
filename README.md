@@ -16,7 +16,7 @@ This project demonstrates my ability to:
 - Work with **CSS layouts (Flexbox, grids, alignment)**
 - Pay attention to **UI/UX consistency**
 
-It is part of my learning journey as a **front-end web developer**.
+It is part of my learning journey as a **developer**.
 
 ---
 
