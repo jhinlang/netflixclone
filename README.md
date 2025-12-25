@@ -39,7 +39,7 @@ netflixclone
 
 ---
 
-## ✨ Features
+##  Features
 
 - Netflix-inspired navigation bar
 - Multiple content sections:
@@ -52,7 +52,7 @@ netflixclone
 
 ---
 
-## 🎯 Key Learning Outcomes
+##  Key Learning Outcomes
 
 - Building real-world UI layouts from scratch
 - Improving CSS positioning and spacing skills
@@ -61,14 +61,14 @@ netflixclone
 
 ---
 
-## 📷 Preview
+##  Preview
 
 All visuals used in this project are **static placeholder images** for demonstration purposes only.  
 No real streaming functionality or dynamic data is implemented.
 
 ---
 
-## ⚠️ Legal Disclaimer
+## Legal Disclaimer
 
 - Netflix name, logo, and UI inspiration belong to **Netflix, Inc.**
 - This project is for **educational and portfolio purposes only**
@@ -76,7 +76,7 @@ No real streaming functionality or dynamic data is implemented.
 
 ---
 
-## 🚀 Possible Improvements
+##  Possible Improvements
 
 - Add JavaScript for interactivity (carousel, animations)
 - Advanced responsive design (mobile & tablet)
@@ -89,8 +89,8 @@ No real streaming functionality or dynamic data is implemented.
 ## Author
 
 **Julien Hinlang**  
-📍 France  
-💼 Aspiring developer
+ France  
+ Aspiring developer
 
 ---
 
